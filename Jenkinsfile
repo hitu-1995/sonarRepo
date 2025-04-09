@@ -1,7 +1,7 @@
 pipeline {
     agent any
     tools {
-        maven 'Maven 3.9.9'    // Add Maven in Jenkins Tools config
+        maven 'maven-3.9.9'    // Add Maven in Jenkins Tools config
     }
     environment {
         SONARQUBE = 'SonarQube' // Jenkins Sonar server name
