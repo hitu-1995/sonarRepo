@@ -1,0 +1,8 @@
+com\cjc\store\controller\ProductController.class
+com\cjc\store\model\Product.class
+com\cjc\store\repository\ProductRepository.class
+com\cjc\store\service\ProductService.class
+com\cjc\store\repository\UserRepository.class
+com\cjc\store\model\User.class
+com\cjc\store\ProductServiceApplication.class
+com\cjc\store\service\ProductServiceIMPL.class
